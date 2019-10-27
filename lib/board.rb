@@ -2,5 +2,5 @@
 
 
 def board
-  puts 
+  puts board = ["", "" ,"" , "", "", "", "", "", ""]
 end
