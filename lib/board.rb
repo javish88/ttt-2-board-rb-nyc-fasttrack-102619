@@ -1,6 +1,6 @@
 # Define the variable board below.
 
 
-def 
-  
+def board
+  puts 
 end
